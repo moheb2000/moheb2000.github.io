@@ -1,0 +1,14 @@
+@font-face {
+  font-family: Gandom;
+  src: url('../fonts/Gandom-FD.eot');
+  src: url('../fonts/Gandom-FD.eot?#iefix') format('embedded-opentype'),
+       url('../fonts/Gandom-FD.woff') format('woff'),
+       url('../fonts/Gandom-FD.ttf') format('truetype');
+  font-weight: normal;
+}
+body {
+  font-family: 'Gandom', sans-serif;
+}
+h1, h2, h3, h4, h5, h6, .nav, .article-duration, .archive-item-link, .footer {
+  font-family: 'Gandom', sans-serif;
+}
