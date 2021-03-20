@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>محمد ابراهیمی</title>
-    <link>/</link>
-    <description>Recent content on محمد ابراهیمی</description>
+    <title>blogdown on محمد ابراهیمی</title>
+    <link>/tags/blogdown/</link>
+    <description>Recent content in blogdown on محمد ابراهیمی</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fa-IR</language>
-    <lastBuildDate>Sat, 20 Mar 2021 00:00:00 +0000</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 20 Mar 2021 00:00:00 +0000</lastBuildDate><atom:link href="/tags/blogdown/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>چگونه با زبان آر، سایت ایستا بسازیم؟</title>
       <link>/2021/03/20/%DA%86%DA%AF%D9%88%D9%86%D9%87-%D8%A8%D8%A7-%D8%B2%D8%A8%D8%A7%D9%86-%D8%A2%D8%B1-%D8%B3%D8%A7%DB%8C%D8%AA-%D8%A7%DB%8C%D8%B3%D8%AA%D8%A7-%D8%A8%D8%B3%D8%A7%D8%B2%DB%8C%D9%85/</link>
@@ -14,16 +14,6 @@
       
       <guid>/2021/03/20/%DA%86%DA%AF%D9%88%D9%86%D9%87-%D8%A8%D8%A7-%D8%B2%D8%A8%D8%A7%D9%86-%D8%A2%D8%B1-%D8%B3%D8%A7%DB%8C%D8%AA-%D8%A7%DB%8C%D8%B3%D8%AA%D8%A7-%D8%A8%D8%B3%D8%A7%D8%B2%DB%8C%D9%85/</guid>
       <description>اگر برای تحلیل های آماری و یادگیری ماشین از زبان آر استفاده می کنید و می خواهید مطالب مورد علاقه خود را با دیگر کاربران به اشتراک بگذارید، نیازی به یادگیری محیطی جدید ندارید. پکیج blogdown در آر به شما این امکان را می دهد تا در کوتاه ترین زمان ممکن، سایت ایستای خود را منتشر کنید. سایت ایستا (یا static) به سایتی گفته می شود که قابلیت تغییر پویا ندارد و صرفا با اچ تی ام ال، سی اس اس و جاوااسکریپت نوشته شده است.</description>
-    </item>
-    
-    <item>
-      <title>درباره من</title>
-      <link>/about/</link>
-      <pubDate>Mon, 08 Mar 2021 00:00:00 +0000</pubDate>
-      
-      <guid>/about/</guid>
-      <description>سلام به همگی
-محمد ابراهیمی هستم. عاشق جنبش نرم افزاری آزاد هستم و از سیستم عامل دبیان برای کارهای روزمره استفاده می کنم. زبان انگلیسی را هم با دیدن فیلم های یوتیوب و خواندن کتاب های برنامه نویسی تقویت کردم. به برنامه نویسی علاقه زیادی دارم. مثل خیلی از افراد دیگر به طور مقدماتی، زبان های زیادی را یاد گرفتم ولی تصمیم گرفتم به جای سرگرمی، حوزه ای را انتخاب کنم که در رشته دانشگاهی خودم، کاربرد بیشتری داشته باشد.</description>
     </item>
     
   </channel>
